@@ -1,8 +1,6 @@
 # An Introduction to  Eric      				Filishtiner
 
-Table of contents:
-
-[Section link](<#me!> "Me!")
+Section links to favorite sections:
 
 [Section link](<#BIO> "BIO")
 
@@ -11,10 +9,6 @@ Table of contents:
 [Section link](<#Tennis> "Tennis")
 
 [Section link](<#Pokemon> "Pokemon")
-
-[Section link](<#Arcade> "Arcade")
-
-[Section link](<#quarter> "Quarter")
 
 ## This is me!:
 
