@@ -45,6 +45,23 @@ Side note: Johto is home to my very favorite location in all of video games, Ecr
 7. Unova
 8. Alola
 
+These are my favorite parts of every region, one for each:
+#### Kanto
+[Lavender Town](Images/LavenderTownKanto.jpg)
+#### Johto
+[Goldenrod City](Images/GoldenrodJohto.png)
+#### Hoenn
+[Sky Pillar](Images/SkyPillarHoenn.jpg)
+#### Sinnoh
+[Hearthome City](Images/HearthomeCitySinnoh.jpg)
+#### Unova
+[Nimbasa City](Images/NimbasaCityUnova.png)
+#### Kalos
+[Lumiose City](Images/LumioseCityKalos.jpg)
+#### Alola
+[Hau'oli City](Images/Hau'oliCityAlola.jpg)
+#### Galar
+[Wyndon](Images/WyndonGalar.jpg)
 ### Classic Games, Especially Arcade Games!
 These days, I find myself overwhelmed by modern entertainment, and by the modern world in general. I love playing the classics and going to arcades! They are a nice, fun, and interesting retreat from the majority of the present world! Classic games don't usually come with the complexities and over-development of that which is more modern, and everyone who goes to such places is there to enjoy the environment that such places bring about! As for the games themselves, they aged like fine wine, still pulsing with the innovation that brought them about!
 Some of my favorite classics include:
@@ -75,6 +92,6 @@ Figure out section links.
 All this text is important for my goals for the year
 
 These section links don't do anything, but they are here.
-[Section link](<#relative-links> "Optional title")
+[Section link](<#Classic-games> "Classic games")
 
-[Section link](<#relative-links> "Optional title 2")
+[Section link](<#Pokemon> "Pokemon")
