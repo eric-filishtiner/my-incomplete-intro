@@ -2,7 +2,7 @@
 
 Table of contents:
 
-[Section link](<#me!> "A picture of me")
+[Section link](<#me!> "Me!")
 
 [Section link](<#BIO> "BIO")
 
