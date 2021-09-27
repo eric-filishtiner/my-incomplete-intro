@@ -2,7 +2,9 @@
 
 Section links to favorite sections:
 
-[Biography](#an-introduction-to--eric------filishtiner)
+[Introduction](#an-introduction-to--eric------filishtiner)
+
+[Biography](#bio)
 
 [Hobbies](#hobbies)
 
