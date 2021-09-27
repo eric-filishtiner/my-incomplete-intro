@@ -2,13 +2,13 @@
 
 Section links to favorite sections:
 
-[Biography](<#BIO> "BIO")
+[Biography](#BIO")
 
-[Hobbies](<#HOBBIES> "Hobbies")
+[Hobbies](#HOBBIES)
 
-[Tennis](<#Tennis> "Tennis")
+[Tennis](#Tennis)
 
-[Pokemon](<#Pokemon> "Pokemon")
+[Pokemon](#Pokemon)
 
 ## This is me!
 ![This is an image](https://github.com/eric-filishtiner/my-incomplete-intro/blob/My--Bio/IMG_1738.jpg?raw=true)
