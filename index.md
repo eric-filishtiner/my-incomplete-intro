@@ -11,7 +11,7 @@ Section links to favorite sections:
 [Pokemon](<#Pokemon> "Pokemon")
 
 ## This is me!
-![This is an image](https://github.com/eric-filishtiner/my-incomplete-intro/blob/My--Bio/IMG_1738.jpg)
+![This is an image](https://github.com/eric-filishtiner/my-incomplete-intro/blob/My--Bio/IMG_1738.jpg?raw=true)
 
 It's interesting that the title, link format as in `![This is an image](IMG_1738.jpg)` doesn't permit image resizing. To manage this(as in the tennis racquet lower on the page, I have to use code similar to `<img src="https://cdn.shopify.com/s/files/1/0017/8244/8198/products/102358_Pure_Aero_team_face_grande_2438d782-5882-4144-8946-4d17c8c06707.jpg?v=1612923808" width="125" height="150">`
 ## BIO:
