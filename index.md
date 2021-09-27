@@ -1,6 +1,6 @@
 # An Introduction to  Eric      				Filishtiner
 
-Section links to favorite sections:
+Section links to sections with less than 3 #'s:
 
 [Introduction](#an-introduction-to--eric------filishtiner)
 
