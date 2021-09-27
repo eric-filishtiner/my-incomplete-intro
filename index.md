@@ -45,14 +45,17 @@ Favorite regions(In order):
 1. Sinnoh(New game *November 19th*!!!)
 Sinnoh is just so awesome, and home to the incredible Regigigas! 
 <img src="https://github.com/eric-filishtiner/my-incomplete-intro/blob/My--Bio/Regigigas!.png?raw=true" width="500" height="360">
+
 According to it's Diamond/Pearl Pokedex entry, 
 >There is an enduring legend that states this Pokémon towed continents with ropes.
 
 That just seems incredible to me. Those must be some incredible ropes!
 2. Hoenn
 3. Johto
-Side note: Johto is home to my very favorite location in all of video games, Ecruteak City!
+Side note: Johto is home to my very favorite location in all of video games,
 <img src="https://neotizen.news/wp-content/uploads/2021/07/Ecruteak-City-HGSS-vD3RVP.jpeg" width="500" height="300">
+
+ Ecruteak City!
 4. Kanto
 5. Galar
 6. Kalos
@@ -85,6 +88,7 @@ Some of my favorite classics include:
 - Super Mario
 
 My favorite is ~~Pac-Man~~ ~~The Legend of Zelda~~ ~~Super Mario~~ ~~Mega Man~~ Goodness! It's too hard to decide!
+
 <img src="https://cutewallpaper.org/21/classic-game-wallpaper/Classic-Video-Game-Wallpaper-30-+-Background-Pictures-.jpg" width="500" height="300">
 
 ###  **Goals**
