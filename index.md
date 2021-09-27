@@ -2,13 +2,15 @@
 
 Section links to favorite sections:
 
-[Biography](#BIO")
+[Biography](#an-introduction-to--eric------filishtiner)
 
-[Hobbies](#HOBBIES)
+[Hobbies](#hobbies)
 
-[Tennis](#Tennis)
+[Tennis](#tennis)
 
-[Pokemon](#Pokemon)
+[Pokemon](#pokemon)
+
+[Goals](#goals)
 
 ## This is me!
 ![This is an image](https://github.com/eric-filishtiner/my-incomplete-intro/blob/My--Bio/IMG_1738.jpg?raw=true)
@@ -83,6 +85,7 @@ Some of my favorite classics include:
 My favorite is ~~Pac-Man~~ ~~The Legend of Zelda~~ ~~Super Mario~~ ~~Mega Man~~ Goodness! It's too hard to decide!
 <img src="https://cutewallpaper.org/21/classic-game-wallpaper/Classic-Video-Game-Wallpaper-30-+-Background-Pictures-.jpg" width="500" height="300">
 
+###  **Goals**
 Some of my goals for this quarter are:
 - [ ] Become more professional as a software engineer
 - [ ] Complete at least 150 LeetCode questions
